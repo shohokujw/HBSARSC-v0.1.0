@@ -1,0 +1,16 @@
+{
+    "args" : [
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/5.0.2",
+        "-IC:/Program Files/RStudio/resources/libclang/builtin-headers/libc++/5.0.2",
+        "-IC:/Users/shohoku/Documents/R/win-library/3.6/Rcpp/include",
+        "-IC:/Users/shohoku/Documents/R/win-library/3.6/RcppArmadillo/include",
+        "-IC:/Users/shohoku/Documents/R/win-library/3.6/RcppProgress/include",
+        "-std=gnu++11",
+        "-IC:/PROGRA~1/R/R-36~1.3/include",
+        "-DNDEBUG",
+        "-fopenmp"
+    ],
+    "hash" : "161753569116175286871617528687",
+    "is_cpp" : true,
+    "pch" : "Rcpp"
+}

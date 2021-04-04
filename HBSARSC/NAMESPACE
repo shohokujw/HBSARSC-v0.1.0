@@ -1,0 +1,6 @@
+useDynLib(HBSARSC, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+exportPattern("^[[:alpha:]]+")
+export(hbsarv5, hbsarv7, hbsarv10, gHBSARSC)
+
+## import other packages
